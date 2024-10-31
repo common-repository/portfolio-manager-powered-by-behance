@@ -1,0 +1,51 @@
+#bop-all-wrapper{
+	padding: 0;
+}
+
+.bop-project-area{
+	margin-top: 170px;
+	padding-top: 0;
+}
+
+#bop-project-right{
+	display: none;
+}
+
+#bop-project-info-small{
+	display: block;
+}
+
+#bop-project-left{
+	margin-right: 0;
+	min-width: 624px;
+}
+
+.bop-primary-project-content div {
+    padding: 0px 8.4%;
+}
+
+#bop-left-project-header{
+	display: none;
+}
+
+#bpm-inner-footer-wrapper{
+    -webkit-column-count: 1; /* Chrome, Safari, Opera */
+    -moz-column-count: 1; /* Firefox */
+    column-count: 1;
+}
+
+.bpm-project-footer-block{
+	width: 100%;
+}
+
+.bop-primary-project-content div {
+    line-height: 10px;
+}
+
+#bop-left-project-title{
+	padding: 20px 14px 4px 20px;
+}
+
+#bop-category, #stats-top{
+	padding: 4px 14px 4px 20px;
+}

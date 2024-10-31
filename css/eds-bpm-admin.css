@@ -1,0 +1,111 @@
+.eds-bpm-add-row-space{
+	margin-top: 10px;
+	margin-bottom: 10px;	
+}
+
+.no-padding{
+	padding: 0;
+}
+
+.table > tbody > tr > td, .table > thead > tr > th{
+	padding: 15px;
+}
+
+.table {
+    margin-bottom: 0px;
+}
+
+.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+    border-top: 0;
+}
+
+select{			
+	background-image: url("../images/dropdown-arrow.png") !important;
+	background-color: #EEE !important;
+	background-position: center right 6px !important;
+	background-repeat: no-repeat !important;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	padding-right: 20px !important;
+}
+
+.eds-bpm-filters .col-md-4{
+	max-width: 300px;
+}
+
+.eds-bpm-filters .col-md-6{
+	max-width: 200px;
+}
+
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+    cursor: pointer;
+}
+
+.eds-bpm-icon-red{
+	color: #BD362F;
+}
+
+.eds-bpm-icon-green{
+	color: #51A351;
+}
+
+.eds-bpm-icon-featured{
+	color: #F89406;
+}
+
+.bpm-project-column{
+	width: 45% !important;
+}
+
+.eds-bpm-project-search-form{
+	max-width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 6%;
+}
+
+.eds-bpm-information h5{
+	float: left;
+	text-align: center;
+	width: 100%;
+	font-weight:normal;
+}
+
+.eds-bpm-project-thumbnail-backend img{
+	max-width: 94px;
+	border-radius: 5px;
+	position: relative;
+	height: auto;
+	margin-right: 10px;
+}
+
+#eds-bpm-options-wrapper{
+	max-width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	border-radius: 5px;
+	margin-top:60px;
+	margin-bottom: 60px;
+	background: #ffffff;
+	padding: 10px;
+	-moz-box-shadow: 2px 0px 6px 0px rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow: 2px 0px 6px 0px rgba(0, 0, 0, 0.1);
+	box-shadow: 2px 0px 6px 0px rgba(0, 0, 0, 0.1);	
+}
+
+
+.eds-bpm-option-backend{
+	border-bottom: 1px solid #c1c1c1;
+	height: 40px;
+}
+
+.radio.btn-group{
+	float: left;
+	padding-top: 0;
+}
+
+.eds-bpm-alert .fa{
+	padding-right: 5px !important;
+} 
+
